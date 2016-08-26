@@ -1,2 +1,1 @@
-# anitakym
-my blog
+www.anitakym.com
